@@ -6,10 +6,8 @@ The **TalkTown** application is a feature-rich real-time chat platform designed 
 ## Features
 - **User Authentication**: Secure login and registration using encrypted credentials.
 - **Real-Time Messaging**: Instant communication enabled by WebSocket technology.
-- **Group Chats**: Users can create and join group conversations effortlessly.
 - **Typing Indicators**: Displays when a user is typing in a chat.
 - **Read Receipts**: Indicates when messages are delivered and read.
-- **Media Sharing**: Share images and files in chats.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
 
 ## Technologies Used
@@ -27,9 +25,6 @@ The **TalkTown** application is a feature-rich real-time chat platform designed 
   - Socket.IO
 - **Authentication**:
   - JSON Web Tokens (JWT)
-- **Other Tools**:
-  - Axios (for API calls)
-  - Cloudinary (for media storage)
 
 ## Installation Guide
 1. Clone the repository:
